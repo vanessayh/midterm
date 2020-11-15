@@ -1,0 +1,4 @@
+The TextBlob package is essential for the code to run.
+The following statements are used in the command prompt:
+  pip install -U TextBlob 
+  python -m textblob.download_corpora
